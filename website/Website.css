@@ -93,6 +93,7 @@ nav {
     @apply right-20;
 }
 
+
 @keyframes stickyNav {
     100% {
         background-color: darkgreen;
