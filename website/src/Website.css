@@ -93,6 +93,20 @@ nav {
     @apply right-20;
 }
 
+.font-black h2 {
+    position: absolute;
+
+}
+
+.font-black h1 {
+    position: absolute;
+    top: 20px;
+}
+
+.font-black .text-shadow {
+    text-shadow: black 0.1rem 0.1rem 0.2rem;
+    color: white;
+}
 
 @keyframes stickyNav {
     100% {
