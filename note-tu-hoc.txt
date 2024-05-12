@@ -8,3 +8,5 @@ link web
 https://discord.com/channels/990957334098497556/990957334568255544/1235169157369040927
 các loại sách về lập trình
 https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md
+homepage mẫu
+https://www.nexcess.net/blog/homepage-examples/
